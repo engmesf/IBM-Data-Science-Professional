@@ -1,1 +1,1 @@
-# IBM-Data-Science-Professional
+# Ibm-Data-Science-Professional
